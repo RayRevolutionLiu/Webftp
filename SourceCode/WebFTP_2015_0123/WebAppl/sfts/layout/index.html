@@ -1,0 +1,85 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>工研院檔案傳輸系統 ITRI Security File Transmission System</title>
+<script type="text/javascript" src="js/jquery-1.9.1.js"></script>
+<script type="text/javascript" src="js/jquery-ui-1.10.2.custom.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+
+ $(".btnITRI").mouseover(function(){
+	$(this).addClass('ITRIover');
+	$(".btnFIRM").addClass('FIRMnone');
+  }).mouseout(function(){
+	$(this).removeClass('ITRIover');
+	$(".btnFIRM").removeClass('FIRMnone');
+	  });
+  $(".btnFIRM").mouseover(function(){
+	$(this).addClass('FIRMover');
+	$(".btnITRI").addClass('ITRInone');
+  }).mouseout(function(){
+	$(this).removeClass('FIRMover');
+	$(".btnITRI").removeClass('ITRInone');
+	}); 
+
+});
+</script>
+<script type="text/javascript">
+	$(function() {
+    $( "#dialog" ).dialog({
+	  modal:true,
+	  position:["center", 100],
+	  width:250,
+      autoOpen: false,
+      show: {
+        duration: 300
+      },
+      hide: {
+        duration: 300
+      }
+    });
+    $( "#opener" ).click(function() {
+      $( "#dialog" ).dialog( "open");
+    });
+  });
+</script>
+<link rel="stylesheet" type="text/css" href="css/style.css" />
+<link rel="stylesheet" type="text/css" href="css/redmond/jquery-ui-1.10.2.custom.css" />
+</head>
+
+<body >
+	<div class="wrapper-enter">
+    	<div class="logo"><h1>工研院檔案傳輸系統</h1></div>
+    	<a href="#" target="_self"><div class="btnITRI ITRIgeneral"><h2>工研人登入</h2></div></a>
+        <a href="#" target="_self" id="opener"><div class="btnFIRM FIRMgeneral"><h2>合作夥伴登入</h2></div></a>
+        <div class="text font-lightgray lineheight02">
+        本系統提供工研院同仁間或與合作夥伴透過 Web 化介面傳送大型檔案，讓同仁與合作夥伴可輕鬆且有效率的交換電子檔案。
+        </div>
+        <div class="footer font-lightgray">
+        【工研院大檔案傳輸】 版權所有© 2013 工業技術研究院<br />
+聯絡我們 | 智權政策 | 法律聲明 | 隱私保護聲明
+
+        </div>
+    </div><!--{* wrapper-enter *}-->
+    
+<div id="dialog" class="font-gray" title="合作夥伴登入">
+<table width="100%" border="0" cellspacing="3" cellpadding="3">
+  <tr>
+    <td>帳號:</td>
+    <td><input type="text" /></td>
+  </tr>
+  <tr>
+    <td>密碼:</td>
+    <td><input type="password" /></td>
+  </tr>
+  <tr>
+    <td align="right" colspan="2"><a href="#" target="_self">申請帳號</a>&nbsp;<a href="#" target="_self">忘記密碼</a>&nbsp;
+<button class=btn_mouseout onmouseover="this.className='btn_mouseover'"onmouseout="this.className='btn_mouseout'">登入</button></td>
+  </tr>
+</table>
+
+</div><!--{* dialog *}-->
+
+</body>
+</html>

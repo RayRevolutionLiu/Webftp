@@ -1,0 +1,100 @@
+﻿        #filelist ul
+        {
+            margin: 0;
+            padding: 0;
+            list-style-type: none;
+            overflow: hidden;
+            width: 100%;
+            position:relative;
+	        float:left;
+	        margin-bottom:0px;
+        }
+        #filelist ul li
+        {
+            border-left: none;
+            border-right: none;
+            border-top: none;
+            border: 1px solid #d3d3d3;
+            background: #F2F7FB;
+            font-weight: normal;
+            color: #555;
+            list-style: none;
+            display: inline-block;
+            position: relative;
+            overflow: hidden;
+            width: 100%;
+            padding: 0;
+            margin: 0;
+        }
+        #filelist ul li span
+        {
+            padding-left: 7px;
+        }
+        #plupload_content ul li div
+        {
+           top:4px;
+        }
+        #plupload_content .plupload_file_name
+        {
+            width: 75%;
+            padding-left: 7px;
+            font-weight: bold;
+            line-height: 1.5em;
+        }
+        #plupload_content .plupload_file_size
+        {
+            width: 11%;
+            font-weight: bold;
+            line-height: 1.5em;
+        }      
+        #plupload_content .plupload_delCol
+        {
+            width:20px;
+            float: right;
+        }
+        
+        #plupload_content .plupload_fileNameList
+        {
+            width:270px;
+            position:absolute;
+            display:inline;
+            word-wrap: break-word; 
+            word-break: normal;
+        }
+        #plupload_content .plupload_fileSizeList
+        {
+            width:80px;
+            position:absolute;
+            display:inline;
+            left:280px;
+        }
+        #plupload_content .plupload_delbtn
+        {
+            width:50px;
+            position:absolute;
+            display:inline;
+            left:360px;
+        }
+
+        #plupload_content table
+        {
+            background: #D1E3F1;
+        }
+        div.progressbar
+        {
+            width:420px;
+        }
+        div.progress-label
+        {
+             float: left; 
+             margin-left: 40%; 
+             margin-top: 5px; 
+             font-weight: bold; 
+             text-shadow: 1px 1px 0 #fff;
+             position:absolute;
+        }
+        div#percentNum
+        {
+            text-align:center;
+            width:420px;
+        }

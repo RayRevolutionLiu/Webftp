@@ -1,0 +1,130 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>工研院檔案傳輸系統 ITRI Security File Transmission System</title>
+<script type="text/javascript" src="js/jquery-1.9.1.js"></script>
+<script type="text/javascript" src="js/jquery-ui-1.10.2.custom.min.js"></script>
+<script type="text/javascript">
+	$(function() {
+    $( "#dialog" ).dialog({
+	  modal:true,
+	  position:["center", 100],
+	  width:480,
+      autoOpen: false,
+      show: {
+        duration: 300
+      },
+      hide: {
+        duration: 300
+      }
+    });
+    $( "#opener" ).click(function() {
+      $( "#dialog" ).dialog( "open");
+    });
+  });
+</script>
+<link rel="stylesheet" type="text/css" href="css/style.css" />
+<link rel="stylesheet" type="text/css" href="css/redmond/jquery-ui-1.10.2.custom.css" />
+</head>
+
+<body >
+	<div class="wrapper-page">
+    	<div class="header">
+        	<a href="#" target="_self"><div class="logo"><h1>工研院檔案傳輸系統</h1></div></a>
+            <div class="menu">
+            <div class="btncurrent"><a href="#" target="_self">檔案傳送</a></div>
+            <div class="btn"><a href="#" target="_self">檔案接收狀況</a></div>
+            <div class="btn"><a href="#" target="_self">使用說明</a></div>
+            <div class="btn"><a href="#" target="_self">系統簡介</a></div>
+            </div>
+        </div><!--{* header *}-->
+        <div class="body">
+        	
+            <div class="wrapper-content font-gray">
+            <div class="main">
+            	<span class="linetable font-gray font-size3">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="right" class="inputsizeS">類型:</td>
+    <td><input type="radio" />&nbsp;一般&nbsp;&nbsp;<input type="radio" />&nbsp;密件</td>
+  </tr>
+   <tr>
+    <td align="right">主旨:</td>
+    <td><input type="text" class="inputsizeLL" /></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top">留言內容:</td>
+    <td><textarea rows="8" class="inputsizeLL"></textarea></td>
+  </tr>
+  <tr>
+    <td align="right">檔案清單:</td>
+    <td align="right"><button class=btn_mouseout onmouseover="this.className='btn_mouseover'"onmouseout="this.className='btn_mouseout'">瀏覽</button></td>
+  </tr>
+</table>              
+                </span>
+<div class="controlblock">
+<button class=btn_mouseout onmouseover="this.className='btn_mouseover'"onmouseout="this.className='btn_mouseout'">取消</button>
+<button class=btn_mouseout onmouseover="this.className='btn_mouseover'"onmouseout="this.className='btn_mouseout'">確定送出</button>
+</div>              
+            </div><!--{* main *}-->
+            
+            <div class="sidebar lineheight02">
+            <span class="font-size2">寄件者:蔣大砲 <span class="font-lightgray font-size2">biggun@itri.org.tw</span></span>
+            <div class="block">
+            	<div class="left"><span class="font-size4 font-bold">收件者:</span></div>
+                <div class="right">
+                <a href="#" target="_self" id="opener"><img src="images/btn-search.gif" border="0" /></a>
+                <a href="#" target="_self"><img src="images/btn-address.gif" border="0" /></a>
+                <a href="#" target="_self"><img src="images/btn-history.gif" border="0" /></a>
+                </div><!--{* right *}-->
+            </div><!--{* block *}-->
+            <div class="block font-size2">
+            <textarea rows="5" style="width:340px;"></textarea>
+            ※ 若有 多個「收檔者」，「E-mail 地址」之間請以「,」或「;」做分隔
+            </div><!--{* block *}-->
+            <div class="block">
+            <img src="images/icon-note.gif" /><span class="font-bold">注意事項</span>
+            <div class="noteblock">
+            	<ul>
+                	<li>請注意：檔案寄送時務必檢查確認收檔者E-mail，信件寄出後本系統將無法追蹤或限制該信件的轉寄動作</li>
+                    <li>E-mail 地址請輸入完整的 E-mail 地址，例如：john@foo.com</li>
+                    <li>若需要上傳的檔案數量很多，建議您將檔案打包成一個壓縮檔再上傳，以避免上傳時需花大量時間選擇檔案，也能避免收檔者下載時必須點選多次下載按鈕的困擾。</li>
+                </ul>
+            </div>
+            
+            </div><!--{* block *}-->
+            
+            </div><!--{* sidebar *}-->
+            </div><!--{* wrapper-content *}-->
+            
+        </div><!--{* body *}-->
+        <div class="footer">
+        </div><!--{* footer *}-->
+    </div><!--{* wrapper-page *}-->
+<div id="dialog" class="font-gray" title="關鍵字搜尋">
+<table width="100%" border="0" cellspacing="3" cellpadding="3">
+  <tr>
+    <td align="right" class="inputsizeS">收件者:</td>
+    <td><input type="text" class="inputsizeLL" /></td>
+  </tr>
+  <tr>
+    <td align="right">關鍵字:</td>
+    <td><input type="text" class="inputsizeLL" /></td>
+  </tr>
+  <tr>
+  	<td align="right" valign="top">搜尋結果:</td>
+    <td>
+<textarea rows="5" class="inputsizeLL"></textarea>
+    </td>
+  </tr>
+  <tr>
+    <td align="right" colspan="2">
+<button class=btn_mouseout onmouseover="this.className='btn_mouseover'"onmouseout="this.className='btn_mouseout'">取消</button>
+<button class=btn_mouseout onmouseover="this.className='btn_mouseover'"onmouseout="this.className='btn_mouseout'">確定</button>
+</td>
+  </tr>
+</table>
+</div><!--{* dialog *}-->
+</body>
+</html>

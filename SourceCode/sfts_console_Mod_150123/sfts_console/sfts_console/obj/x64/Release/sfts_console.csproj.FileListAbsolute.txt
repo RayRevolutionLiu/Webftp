@@ -1,0 +1,2 @@
+C:\Documents and Settings\Administrator\桌面\sfts_console_Mod_140226\sfts_console\sfts_console\bin\x64\Release\sfts_console.exe.config
+C:\Documents and Settings\Administrator\桌面\sfts_console_Mod_140226\sfts_console\sfts_console\obj\x64\Release\ResolveAssemblyReference.cache

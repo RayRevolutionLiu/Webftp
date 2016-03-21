@@ -1,0 +1,12 @@
+D:\Project\sfts_console\sfts_console\bin\Debug\sfts_console.exe.config
+D:\Project\sfts_console\sfts_console\bin\Debug\sfts_console.exe
+D:\Project\sfts_console\sfts_console\bin\Debug\sfts_console.pdb
+D:\Project\sfts_console\sfts_console\bin\Debug\Xceed.Compression.v5.1.dll
+D:\Project\sfts_console\sfts_console\bin\Debug\Xceed.FileSystem.v5.1.dll
+D:\Project\sfts_console\sfts_console\bin\Debug\Xceed.Zip.v5.1.dll
+D:\Project\sfts_console\sfts_console\bin\Debug\Xceed.Compression.v5.1.xml
+D:\Project\sfts_console\sfts_console\bin\Debug\Xceed.FileSystem.v5.1.xml
+D:\Project\sfts_console\sfts_console\bin\Debug\Xceed.Zip.v5.1.xml
+D:\Project\sfts_console\sfts_console\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\sfts_console\sfts_console\obj\x86\Debug\sfts_console.exe
+D:\Project\sfts_console\sfts_console\obj\x86\Debug\sfts_console.pdb

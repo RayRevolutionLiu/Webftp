@@ -1,0 +1,72 @@
+D:\Project\sfts_console\sfts_console\bin\Release\sfts_console.exe.config
+D:\Project\sfts_console\sfts_console\bin\Release\sfts_console.exe
+D:\Project\sfts_console\sfts_console\bin\Release\sfts_console.pdb
+D:\Project\sfts_console\sfts_console\bin\Release\Xceed.Compression.v5.1.dll
+D:\Project\sfts_console\sfts_console\bin\Release\Xceed.FileSystem.v5.1.dll
+D:\Project\sfts_console\sfts_console\bin\Release\Xceed.Zip.v5.1.dll
+D:\Project\sfts_console\sfts_console\bin\Release\Xceed.Compression.v5.1.xml
+D:\Project\sfts_console\sfts_console\bin\Release\Xceed.FileSystem.v5.1.xml
+D:\Project\sfts_console\sfts_console\bin\Release\Xceed.Zip.v5.1.xml
+D:\Project\sfts_console\sfts_console\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Project\sfts_console\sfts_console\obj\x86\Release\sfts_console.exe
+D:\Project\sfts_console\sfts_console\obj\x86\Release\sfts_console.pdb
+C:\Documents and Settings\Administrator\桌面\sfts_console1\sfts_console\sfts_console\bin\Release\sfts_console.exe.config
+C:\Documents and Settings\Administrator\桌面\sfts_console1\sfts_console\sfts_console\obj\x86\Release\sfts_console.exe
+C:\Documents and Settings\Administrator\桌面\sfts_console1\sfts_console\sfts_console\obj\x86\Release\sfts_console.pdb
+C:\Documents and Settings\Administrator\桌面\sfts_console1\sfts_console\sfts_console\bin\Release\sfts_console.exe
+C:\Documents and Settings\Administrator\桌面\sfts_console1\sfts_console\sfts_console\bin\Release\sfts_console.pdb
+C:\Documents and Settings\Administrator\桌面\sfts_console1\sfts_console\sfts_console\bin\Release\Xceed.Compression.v5.1.xml
+C:\Documents and Settings\Administrator\桌面\sfts_console1\sfts_console\sfts_console\bin\Release\Xceed.FileSystem.v5.1.xml
+C:\Documents and Settings\Administrator\桌面\sfts_console1\sfts_console\sfts_console\bin\Release\Xceed.Zip.v5.1.xml
+C:\Documents and Settings\Administrator\桌面\sfts_console1\sfts_console\sfts_console\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\sfts_console_Mod\sfts_console\sfts_console\bin\Release\sfts_console.exe.config
+C:\Documents and Settings\Administrator\桌面\sfts_console_Mod\sfts_console\sfts_console\obj\x86\Release\sfts_console.exe
+C:\Documents and Settings\Administrator\桌面\sfts_console_Mod\sfts_console\sfts_console\obj\x86\Release\sfts_console.pdb
+C:\Documents and Settings\Administrator\桌面\sfts_console_Mod\sfts_console\sfts_console\bin\Release\sfts_console.exe
+C:\Documents and Settings\Administrator\桌面\sfts_console_Mod\sfts_console\sfts_console\bin\Release\sfts_console.pdb
+C:\Documents and Settings\Administrator\桌面\sfts_console_Mod\sfts_console\sfts_console\bin\Release\Xceed.Compression.v5.1.xml
+C:\Documents and Settings\Administrator\桌面\sfts_console_Mod\sfts_console\sfts_console\bin\Release\Xceed.FileSystem.v5.1.xml
+C:\Documents and Settings\Administrator\桌面\sfts_console_Mod\sfts_console\sfts_console\bin\Release\Xceed.Zip.v5.1.xml
+C:\Documents and Settings\Administrator\桌面\sfts_console_Mod\sfts_console\sfts_console\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\sfts_console_Mod1014\sfts_console\sfts_console\bin\Release\sfts_console.exe.config
+C:\Documents and Settings\Administrator\桌面\sfts_console_Mod1014\sfts_console\sfts_console\obj\x86\Release\sfts_console.exe
+C:\Documents and Settings\Administrator\桌面\sfts_console_Mod1014\sfts_console\sfts_console\obj\x86\Release\sfts_console.pdb
+C:\Documents and Settings\Administrator\桌面\sfts_console_Mod1014\sfts_console\sfts_console\bin\Release\sfts_console.exe
+C:\Documents and Settings\Administrator\桌面\sfts_console_Mod1014\sfts_console\sfts_console\bin\Release\sfts_console.pdb
+C:\Documents and Settings\Administrator\桌面\sfts_console_Mod1014\sfts_console\sfts_console\bin\Release\Xceed.Compression.v5.1.xml
+C:\Documents and Settings\Administrator\桌面\sfts_console_Mod1014\sfts_console\sfts_console\bin\Release\Xceed.FileSystem.v5.1.xml
+C:\Documents and Settings\Administrator\桌面\sfts_console_Mod1014\sfts_console\sfts_console\bin\Release\Xceed.Zip.v5.1.xml
+C:\Documents and Settings\Administrator\桌面\sfts_console_Mod1014\sfts_console\sfts_console\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\sfts_console_Mod_1226\sfts_console\sfts_console\bin\Release\sfts_console.exe.config
+C:\Documents and Settings\Administrator\桌面\sfts_console_Mod_1226\sfts_console\sfts_console\obj\x86\Release\sfts_console.exe
+C:\Documents and Settings\Administrator\桌面\sfts_console_Mod_1226\sfts_console\sfts_console\obj\x86\Release\sfts_console.pdb
+C:\Documents and Settings\Administrator\桌面\sfts_console_Mod_1226\sfts_console\sfts_console\bin\Release\sfts_console.exe
+C:\Documents and Settings\Administrator\桌面\sfts_console_Mod_1226\sfts_console\sfts_console\bin\Release\sfts_console.pdb
+C:\Documents and Settings\Administrator\桌面\sfts_console_Mod_1226\sfts_console\sfts_console\bin\Release\Xceed.Compression.v5.1.xml
+C:\Documents and Settings\Administrator\桌面\sfts_console_Mod_1226\sfts_console\sfts_console\bin\Release\Xceed.FileSystem.v5.1.xml
+C:\Documents and Settings\Administrator\桌面\sfts_console_Mod_1226\sfts_console\sfts_console\bin\Release\Xceed.Zip.v5.1.xml
+C:\Documents and Settings\Administrator\桌面\sfts_console_Mod_1226\sfts_console\sfts_console\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\sfts_console_Mod_140226\sfts_console\sfts_console\bin\Release\sfts_console.exe.config
+C:\Documents and Settings\Administrator\桌面\sfts_console_Mod_140226\sfts_console\sfts_console\obj\x86\Release\sfts_console.exe
+C:\Documents and Settings\Administrator\桌面\sfts_console_Mod_140226\sfts_console\sfts_console\obj\x86\Release\sfts_console.pdb
+C:\Documents and Settings\Administrator\桌面\sfts_console_Mod_140226\sfts_console\sfts_console\bin\Release\sfts_console.exe
+C:\Documents and Settings\Administrator\桌面\sfts_console_Mod_140226\sfts_console\sfts_console\bin\Release\sfts_console.pdb
+C:\Documents and Settings\Administrator\桌面\sfts_console_Mod_140226\sfts_console\sfts_console\bin\Release\Xceed.Compression.v5.1.xml
+C:\Documents and Settings\Administrator\桌面\sfts_console_Mod_140226\sfts_console\sfts_console\bin\Release\Xceed.FileSystem.v5.1.xml
+C:\Documents and Settings\Administrator\桌面\sfts_console_Mod_140226\sfts_console\sfts_console\bin\Release\Xceed.Zip.v5.1.xml
+C:\Documents and Settings\Administrator\桌面\sfts_console_Mod_140226\sfts_console\sfts_console\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\sfts_console_Mod_150123\sfts_console\sfts_console\bin\Release\sfts_console.exe.config
+C:\Documents and Settings\Administrator\桌面\sfts_console_Mod_150123\sfts_console\sfts_console\obj\x86\Release\sfts_console.exe
+C:\Documents and Settings\Administrator\桌面\sfts_console_Mod_150123\sfts_console\sfts_console\obj\x86\Release\sfts_console.pdb
+C:\Documents and Settings\Administrator\桌面\sfts_console_Mod_150123\sfts_console\sfts_console\bin\Release\sfts_console.exe
+C:\Documents and Settings\Administrator\桌面\sfts_console_Mod_150123\sfts_console\sfts_console\bin\Release\sfts_console.pdb
+C:\Documents and Settings\Administrator\桌面\sfts_console_Mod_150123\sfts_console\sfts_console\bin\Release\Xceed.Compression.v5.1.xml
+C:\Documents and Settings\Administrator\桌面\sfts_console_Mod_150123\sfts_console\sfts_console\bin\Release\Xceed.FileSystem.v5.1.xml
+C:\Documents and Settings\Administrator\桌面\sfts_console_Mod_150123\sfts_console\sfts_console\bin\Release\Xceed.Zip.v5.1.xml
+C:\Documents and Settings\Administrator\桌面\sfts_console_Mod_150123\sfts_console\sfts_console\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Project\密件管理與發送系統\SourceCode\sfts_console_Mod_150123\sfts_console\sfts_console\bin\Release\sfts_console.exe.config
+D:\Project\密件管理與發送系統\SourceCode\sfts_console_Mod_150123\sfts_console\sfts_console\obj\x86\Release\sfts_console.exe
+D:\Project\密件管理與發送系統\SourceCode\sfts_console_Mod_150123\sfts_console\sfts_console\obj\x86\Release\sfts_console.pdb
+D:\Project\密件管理與發送系統\SourceCode\sfts_console_Mod_150123\sfts_console\sfts_console\bin\Release\sfts_console.exe
+D:\Project\密件管理與發送系統\SourceCode\sfts_console_Mod_150123\sfts_console\sfts_console\bin\Release\sfts_console.pdb
+D:\Project\密件管理與發送系統\SourceCode\sfts_console_Mod_150123\sfts_console\sfts_console\obj\x86\Release\sfts_console.csprojResolveAssemblyReference.cache

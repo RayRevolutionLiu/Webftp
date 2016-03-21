@@ -1,0 +1,70 @@
+D:\Project\密件管理與發送系統\new_sfts\MailQMan\WebAppl\bin\WebAppl.dll
+D:\Project\密件管理與發送系統\new_sfts\MailQMan\WebAppl\bin\WebAppl.pdb
+D:\Project\密件管理與發送系統\new_sfts\MailQMan\WebAppl\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\密件管理與發送系統\new_sfts\MailQMan\WebAppl\obj\Debug\WebAppl.dll
+D:\Project\密件管理與發送系統\new_sfts\MailQMan\WebAppl\obj\Debug\WebAppl.pdb
+C:\SFTSWeb\MailQMan\MailQMan\WebAppl\bin\WebAppl.dll
+C:\SFTSWeb\MailQMan\MailQMan\WebAppl\bin\WebAppl.pdb
+C:\SFTSWeb\MailQMan\MailQMan\WebAppl\obj\Debug\ResolveAssemblyReference.cache
+C:\SFTSWeb\MailQMan\MailQMan\WebAppl\obj\Debug\WebAppl.dll
+C:\SFTSWeb\MailQMan\MailQMan\WebAppl\obj\Debug\WebAppl.pdb
+C:\Documents and Settings\Administrator\桌面\1004_WebftpEdit\MailQMan\WebAppl\bin\WebAppl.dll
+C:\Documents and Settings\Administrator\桌面\1004_WebftpEdit\MailQMan\WebAppl\bin\WebAppl.pdb
+C:\Documents and Settings\Administrator\桌面\1004_WebftpEdit\MailQMan\WebAppl\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\1004_WebftpEdit\MailQMan\WebAppl\obj\Debug\WebAppl.dll
+C:\Documents and Settings\Administrator\桌面\1004_WebftpEdit\MailQMan\WebAppl\obj\Debug\WebAppl.pdb
+C:\Documents and Settings\Administrator\桌面\1004_WebftpEditTimeout\MailQMan\WebAppl\bin\WebAppl.dll
+C:\Documents and Settings\Administrator\桌面\1004_WebftpEditTimeout\MailQMan\WebAppl\bin\WebAppl.pdb
+C:\Documents and Settings\Administrator\桌面\1004_WebftpEditTimeout\MailQMan\WebAppl\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\1004_WebftpEditTimeout\MailQMan\WebAppl\obj\Debug\WebAppl.dll
+C:\Documents and Settings\Administrator\桌面\1004_WebftpEditTimeout\MailQMan\WebAppl\obj\Debug\WebAppl.pdb
+C:\Documents and Settings\Administrator\桌面\1126_WebftpEditTimeout\MailQMan\WebAppl\bin\WebAppl.dll
+C:\Documents and Settings\Administrator\桌面\1126_WebftpEditTimeout\MailQMan\WebAppl\bin\WebAppl.pdb
+C:\Documents and Settings\Administrator\桌面\1126_WebftpEditTimeout\MailQMan\WebAppl\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\1126_WebftpEditTimeout\MailQMan\WebAppl\obj\Debug\WebAppl.dll
+C:\Documents and Settings\Administrator\桌面\1126_WebftpEditTimeout\MailQMan\WebAppl\obj\Debug\WebAppl.pdb
+C:\Documents and Settings\Administrator\桌面\1126_CCMAWebftpEditTimeout\MailQMan\WebAppl\bin\WebAppl.dll
+C:\Documents and Settings\Administrator\桌面\1126_CCMAWebftpEditTimeout\MailQMan\WebAppl\bin\WebAppl.pdb
+C:\Documents and Settings\Administrator\桌面\1126_CCMAWebftpEditTimeout\MailQMan\WebAppl\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\1126_CCMAWebftpEditTimeout\MailQMan\WebAppl\obj\Debug\WebAppl.dll
+C:\Documents and Settings\Administrator\桌面\1126_CCMAWebftpEditTimeout\MailQMan\WebAppl\obj\Debug\WebAppl.pdb
+D:\Project\密件管理與發送系統\MailQMan\WebAppl\bin\WebAppl.dll
+D:\Project\密件管理與發送系統\MailQMan\WebAppl\bin\WebAppl.pdb
+D:\Project\密件管理與發送系統\MailQMan\WebAppl\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\密件管理與發送系統\MailQMan\WebAppl\obj\Debug\WebAppl.dll
+D:\Project\密件管理與發送系統\MailQMan\WebAppl\obj\Debug\WebAppl.pdb
+C:\Documents and Settings\Administrator\桌面\MailQMan0218\MailQMan\WebAppl\bin\WebAppl.dll
+C:\Documents and Settings\Administrator\桌面\MailQMan0218\MailQMan\WebAppl\bin\WebAppl.pdb
+C:\Documents and Settings\Administrator\桌面\MailQMan0218\MailQMan\WebAppl\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\MailQMan0218\MailQMan\WebAppl\obj\Debug\WebAppl.dll
+C:\Documents and Settings\Administrator\桌面\MailQMan0218\MailQMan\WebAppl\obj\Debug\WebAppl.pdb
+C:\Documents and Settings\Administrator\桌面\MailQMan_0403\MailQMan\WebAppl\bin\WebAppl.dll
+C:\Documents and Settings\Administrator\桌面\MailQMan_0403\MailQMan\WebAppl\bin\WebAppl.pdb
+C:\Documents and Settings\Administrator\桌面\MailQMan_0403\MailQMan\WebAppl\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\MailQMan_0403\MailQMan\WebAppl\obj\Debug\WebAppl.dll
+C:\Documents and Settings\Administrator\桌面\MailQMan_0403\MailQMan\WebAppl\obj\Debug\WebAppl.pdb
+C:\Documents and Settings\Administrator\桌面\MailQMan_0418\MailQMan\WebAppl\bin\WebAppl.dll
+C:\Documents and Settings\Administrator\桌面\MailQMan_0418\MailQMan\WebAppl\bin\WebAppl.pdb
+C:\Documents and Settings\Administrator\桌面\MailQMan_0418\MailQMan\WebAppl\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\MailQMan_0418\MailQMan\WebAppl\obj\Debug\WebAppl.dll
+C:\Documents and Settings\Administrator\桌面\MailQMan_0418\MailQMan\WebAppl\obj\Debug\WebAppl.pdb
+D:\Project\密件管理與發送系統\MailQMan_0418\MailQMan\WebAppl\bin\WebAppl.dll
+D:\Project\密件管理與發送系統\MailQMan_0418\MailQMan\WebAppl\bin\WebAppl.pdb
+D:\Project\密件管理與發送系統\MailQMan_0418\MailQMan\WebAppl\obj\Debug\WebAppl.dll
+D:\Project\密件管理與發送系統\MailQMan_0418\MailQMan\WebAppl\obj\Debug\WebAppl.pdb
+D:\Project\密件管理與發送系統\MailQMan_0418\MailQMan\WebAppl\obj\Debug\WebAppl.csprojResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\MailQMan_1021\MailQMan_0418\MailQMan\WebAppl\bin\WebAppl.dll
+C:\Documents and Settings\Administrator\桌面\MailQMan_1021\MailQMan_0418\MailQMan\WebAppl\bin\WebAppl.pdb
+C:\Documents and Settings\Administrator\桌面\MailQMan_1021\MailQMan_0418\MailQMan\WebAppl\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\MailQMan_1021\MailQMan_0418\MailQMan\WebAppl\obj\Debug\WebAppl.dll
+C:\Documents and Settings\Administrator\桌面\MailQMan_1021\MailQMan_0418\MailQMan\WebAppl\obj\Debug\WebAppl.pdb
+C:\Documents and Settings\Administrator\桌面\WebFTP_2015_0123\WebAppl\bin\WebAppl.dll
+C:\Documents and Settings\Administrator\桌面\WebFTP_2015_0123\WebAppl\bin\WebAppl.pdb
+C:\Documents and Settings\Administrator\桌面\WebFTP_2015_0123\WebAppl\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\WebFTP_2015_0123\WebAppl\obj\Debug\WebAppl.dll
+C:\Documents and Settings\Administrator\桌面\WebFTP_2015_0123\WebAppl\obj\Debug\WebAppl.pdb
+D:\Project\密件管理與發送系統\SourceCode\WebFTP_2015_0123\WebAppl\bin\WebAppl.dll
+D:\Project\密件管理與發送系統\SourceCode\WebFTP_2015_0123\WebAppl\bin\WebAppl.pdb
+D:\Project\密件管理與發送系統\SourceCode\WebFTP_2015_0123\WebAppl\obj\Debug\WebAppl.dll
+D:\Project\密件管理與發送系統\SourceCode\WebFTP_2015_0123\WebAppl\obj\Debug\WebAppl.pdb
+D:\Project\密件管理與發送系統\SourceCode\WebFTP_2015_0123\WebAppl\obj\Debug\WebAppl.csprojResolveAssemblyReference.cache
